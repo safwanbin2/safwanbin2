@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Safwan Bin Ridwan</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761199f8209bd98452d9f8ad2a288c2c9ad0a49df786&rid=giphy.gif&ct=g" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safwanbin2&label=Profile%20views&color=0e75b6&style=flat" alt="safwanbin2" /> </p>
 
 - 🌱 I’m currently learning **TypeScript**
