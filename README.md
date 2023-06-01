@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)](https://www.linkedin.com/in/devsafwan)
+
 
 <h1 align="center">Hi 👋, I'm Safwan Bin Ridwan</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
