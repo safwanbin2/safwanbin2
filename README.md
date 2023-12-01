@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **safwanridwan321@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x8Ri90IIcm-mZP-WbCgCA9MJvJhLLiAI/view?usp=share_link](https://drive.google.com/file/d/1x8Ri90IIcm-mZP-WbCgCA9MJvJhLLiAI/view?usp=share_link)
+- 📄 Know about my experiences [Resume / CV](https://drive.google.com/file/d/1-2wnCPIAKwBXzPc_zbb5-evIFj4A-5ZL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
