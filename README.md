@@ -16,4 +16,4 @@ I write software for a living, but I don't intend to limit myself to it.
 
 **Elsewhere**
 
-[LinkedIn](#) · [Portfolio](#) · [Email](#)
+[LinkedIn](https://www.linkedin.com/in/devsafwan/) · [Portfolio](https://github.com/safwanbin2) · [Email](mailto:someone@example.com)
